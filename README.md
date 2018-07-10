@@ -14,8 +14,12 @@ _Note:_ This repo has been set up mostly for my own records. I'm happy to share 
 
 To set up the client files, do the following (assuming your userid is "bernie" :)):
 
-create directory /home/bernie/networktesting
-create XXXhosts.txt file in that directory and add the following files into that directory:
+Create a directory: /home/bernie/networktesting
+
+Create XXXhosts.txt file in that directory. This file can be a copy of your /etc/hosts file.
+
+Add the following files into that directory:
+
 
 * callphpapi.py
 * pingtest.py
