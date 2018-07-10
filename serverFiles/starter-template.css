@@ -1,0 +1,32 @@
+body {
+  padding-top: 30px;
+  font-size: 150%; /* Added by me */
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+/* Belows added by Me */
+
+
+label {
+	padding-left: 10px;
+	font-size: 300%;
+}
+
+td {
+	
+	padding-left: 30px;
+	padding-right: 30px;
+}
+th {
+	text-align: center;
+	font-size: 130%;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+	
+	

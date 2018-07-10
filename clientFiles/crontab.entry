@@ -1,0 +1,1 @@
+*/15 * * * * /home/bernie/networktesting/step1.sh /home/bernie/networktesting && /home/bernie/networktesting/step2.sh /home/bernie/networktesting

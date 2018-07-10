@@ -1,0 +1,1 @@
+python $1/pingtest.py $1/devhosts.txt > $1/pingtest.out
